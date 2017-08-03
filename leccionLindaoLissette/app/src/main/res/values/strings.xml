@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Play now</string>
+    <string name="username">Put your name</string>
+    <string name="button_send">Go!</string>
+    <string name="hello">Hello!</string>
+    <string name="first">Press number 2!</string>
+    <string name="second">Press number 4!</string>
+</resources>

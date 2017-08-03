@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jugar ahora!</string>
+    <string name="username">Indique el nombre</string>
+    <string name="button_send">Ingresar!</string>
+    <string name="hello">Hola!</string>
+    <string name="first">Clic en el número 2!</string>
+    <string name="second">Clic en el número 4!</string>
+</resources>
